@@ -16,7 +16,7 @@ RUN pip uninstall -y PyInquirer prompt_toolkit && \
     pip install git+https://github.com/CITGuru/pyinquirer.git
 
 # Instala una versión específica de lk21 que contenga el objeto Bypass
-RUN pip install git+https://github.com/zevtyardt/lk21.git@v1.5.31
+RUN pip install git+https://github.com/zevtyardt/lk21.git
 
 COPY . .
 

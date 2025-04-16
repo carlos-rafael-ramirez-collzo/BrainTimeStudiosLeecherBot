@@ -45,3 +45,4 @@ tzlocal
 pytz
 apscheduler
 aria2p
+aiofiles

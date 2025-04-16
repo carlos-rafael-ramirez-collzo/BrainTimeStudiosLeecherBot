@@ -42,4 +42,4 @@ uvloop
 xattr
 yt-dlp
 tzlocal
-
+pytz

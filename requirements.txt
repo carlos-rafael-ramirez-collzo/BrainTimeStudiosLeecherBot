@@ -44,3 +44,4 @@ yt-dlp
 tzlocal
 pytz
 apscheduler
+aria2p

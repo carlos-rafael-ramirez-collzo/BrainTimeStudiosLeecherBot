@@ -1,10 +1,9 @@
+setuptools>=61
 aiohttp[speedups]
-aiofiles
-aioshutil
+aiosignal
+anyio
 anytree==2.8.0
-apscheduler
-aria2p
-asyncio
+async-timeout
 beautifulsoup4
 cinemagoer
 cloudscraper
@@ -17,7 +16,6 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 gunicorn
-git+https://github.com/zevtyardt/lk21.git
 httpx
 langcodes[data]
 lxml

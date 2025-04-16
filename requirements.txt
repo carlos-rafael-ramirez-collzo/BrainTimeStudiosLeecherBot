@@ -46,3 +46,4 @@ pytz
 apscheduler
 aria2p
 aiofiles
+aioshutil

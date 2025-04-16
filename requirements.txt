@@ -43,3 +43,4 @@ xattr
 yt-dlp
 tzlocal
 pytz
+apscheduler

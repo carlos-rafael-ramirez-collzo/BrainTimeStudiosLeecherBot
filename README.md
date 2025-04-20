@@ -5,7 +5,7 @@
         </kbd>
     </a>
 
-<i>A Telegram Bot written in Python using Pyrogram Framework for mirroring/cloning online/local files on the Internet to your Google Drive, Telegram or to any RClone supported cloud. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot). This is Enhanced Version of Base Repo [mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot)</i>
+<i>Un bot de Telegram escrito en Python utilizando el framework Pyrogram para hacer mirror/clonar archivos en línea o locales desde Internet a tu Google Drive, Telegram o cualquier nube compatible con RClone. Basado en [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot). Esta es una versión mejorada del repositorio base [mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot)</i>
 
 </p>
 
@@ -13,370 +13,215 @@
 
 ----
 
-[![](https://img.shields.io/github/repo-size/VJBots/WZML-X?color=green&label=Repo%20Size&labelColor=292c3b)](#) [![](https://img.shields.io/github/commit-activity/m/VJBots/WZML-X?logo=github&labelColor=292c3b&label=Github%20Commits)](#) [![](https://img.shields.io/github/license/VJBots/WZML-X?style=flat&label=License&labelColor=292c3b)](#)|[![](https://img.shields.io/github/issues-raw/VJBots/WZML-X?style=flat&label=Open%20Issues&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-closed-raw/VJBots/WZML-X?style=flat&label=Closed%20Issues&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-raw/VJBots/WZML-X?style=flat&label=Open%20Pull%20Requests&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-closed-raw/VJBots/WZML-X?style=flat&label=Closed%20Pull%20Requests&labelColor=292c3b)](#)
+[![](https://img.shields.io/github/repo-size/VJBots/WZML-X?color=green&label=Tamaño%20del%20Repo&labelColor=292c3b)](#) [![](https://img.shields.io/github/commit-activity/m/VJBots/WZML-X?logo=github&labelColor=292c3b&label=Commits%20en%20Github)](#) [![](https://img.shields.io/github/license/VJBots/WZML-X?style=flat&label=Licencia&labelColor=292c3b)](#)|[![](https://img.shields.io/github/issues-raw/VJBots/WZML-X?style=flat&label=Issues%20Abiertos&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-closed-raw/VJBots/WZML-X?style=flat&label=Issues%20Cerrados&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-raw/VJBots/WZML-X?style=flat&label=PR%20Abiertos&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-closed-raw/VJBots/WZML-X?style=flat&label=PR%20Cerrados&labelColor=292c3b)](#)
 :---:|:---:|
-[![](https://img.shields.io/github/languages/count/VJBots/WZML-X?style=flat&label=Total%20Languages&labelColor=292c3b&color=blueviolet)](#) [![](https://img.shields.io/github/languages/top/VJBots/WZML-X?style=flat&logo=python&labelColor=292c3b)](#) [![](https://img.shields.io/github/last-<p align="center">
-    <a href="https://github.com/VJBots/WZML-X">
-        <kbd>
-            <img width="250" src="https://graph.org/file/639fe4239b78e5862b302.jpg" alt="Logo de WZML-X">
-        </kbd>
-    </a>
-
-<i>Un bot de Telegram escrito en Python usando el framework Pyrogram para hacer mirror/clonar archivos en línea o locales desde Internet hacia tu Google Drive, Telegram o cualquier nube compatible con RClone. Basado en [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot). Esta es una versión mejorada del repositorio base [mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot)</i>
-
-</p>
-
-<div align=center>
-
-----
-
-[![](https://img.shields.io/github/repo-size/VJBots/WZML-X?color=green&label=Tamaño%20del%20Repositorio&labelColor=292c3b)](#) [![](https://img.shields.io/github/commit-activity/m/VJBots/WZML-X?logo=github&labelColor=292c3b&label=Commits%20en%20Github)](#) [![](https://img.shields.io/github/license/VJBots/WZML-X?style=flat&label=Licencia&labelColor=292c3b)](#)|[![](https://img.shields.io/github/issues-raw/VJBots/WZML-X?style=flat&label=Issues%20Abiertos&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-closed-raw/VJBots/WZML-X?style=flat&label=Issues%20Cerrados&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-raw/VJBots/WZML-X?style=flat&label=Pull%20Requests%20Abiertos&labelColor=292c3b)](#) [![](https://img.shields.io/github/issues-pr-closed-raw/VJBots/WZML-X?style=flat&label=Pull%20Requests%20Cerrados&labelColor=292c3b)](#)
-:---:|:---:|
-[![](https://img.shields.io/github/languages/count/VJBots/WZML-X?style=flat&label=Lenguajes%20Totales&labelColor=292c3b&color=blueviolet)](#) [![](https://img.shields.io/github/languages/top/VJBots/WZML-X?style=flat&logo=python&labelColor=292c3b)](#) [![](https://img.shields.io/github/last-commit/VJBots/WZML-X?style=flat&label=Último%20Commit&labelColor=292c3b&color=important)](#) [![](https://badgen.net/github/branches/VJBots/WZML-X?label=Total%20de%20Ramas&labelColor=292c3b)](#)|[![](https://img.shields.io/github/forks/VJBots/WZML-X?style=flat&logo=github&label=Forks&labelColor=292c3b&color=critical)](#) [![](https://img.shields.io/github/stars/VJBots/WZML-X?style=flat&logo=github&label=Estrellas&labelColor=292c3b&color=yellow)](#) [![](https://badgen.net/docker/pulls/codewithweeb/weebzone?icon=docker&label=Descargas&labelColor=292c3b&color=blue)](#)
+[![](https://img.shields.io/github/languages/count/VJBots/WZML-X?style=flat&label=Lenguajes%20Totales&labelColor=292c3b&color=blueviolet)](#) [![](https://img.shields.io/github/languages/top/VJBots/WZML-X?style=flat&logo=python&labelColor=292c3b)](#) [![](https://img.shields.io/github/last-commit/VJBots/WZML-X?style=flat&label=Último%20Commit&labelColor=292c3b&color=important)](#) [![](https://badgen.net/github/branches/VJBots/WZML-X?label=Ramas%20Totales&labelColor=292c3b)](#)|[![](https://img.shields.io/github/forks/VJBots/WZML-X?style=flat&logo=github&label=Forks&labelColor=292c3b&color=critical)](#) [![](https://img.shields.io/github/stars/VJBots/WZML-X?style=flat&logo=github&label=Estrellas&labelColor=292c3b&color=yellow)](#) [![](https://badgen.net/docker/pulls/codewithweeb/weebzone?icon=docker&label=Descargas&labelColor=292c3b&color=blue)](#)
 [![](https://img.shields.io/badge/Canal%20de%20Telegram-Unirse-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://telegram.me/VJ_Botz) |[![](https://img.shields.io/badge/Grupo%20de%20Soporte-Unirse-9cf?style=for-the-badge&logo=telegram&logoColor=blue&style=flat&labelColor=292c3b)](https://t.me/VJ_Bot_Disscussion) |
 
 </div>
 
 ---
 
-## 📑 ***Repo Features***
-
-<details>
-  <summary><b>View All Features <sup><kbd>Click Here</kbd></sup></b></summary>
-    <ol><li><details>
-      <summary><b>qBittorrent</b></summary>
-
-- Qbittorrent support
-- Select files from Torrent before and while downloading
-- Seed torrents to specific ratio and time
-- Edit Global Options while bot running from bot settings
-
-    </details></li>
-    <li><details>
-      <summary><b>Aria2c</b></summary>
-
-    - Select files from Torrent before and while downloading
-    - Seed torrents to specific ratio and time
-    - Netrc support
-    - Direct link authentication for specific link while using the bot (it will work even if only username or password)
-    - Improve aria.sh
-    - Fix all download listener functions and status
-    - Edit Global Options while bot running from bot settings
-        
-    </details></li>
-    <li><details>
-      <summary><b>TG Upload/Download</b></summary>
-
-    - Leech (File Upload to TG) support
-    - Splitting File with Specific Size
-    - Thumbnail for each user
-    - Leech prefix, suffic, remname (remove specific words via Regex) for each user.
-    - Set upload as document or as media for each user
-    - 2GB+ file upload with premium account and lower size with bot
-    - Upload all files to specific superGroup/channel.
-    - Leech Split size and equal split size settings for each user
-    - Ability to leech splitted file parts in media group. Setting for each user
-    - Download using premium account if available
-    - Download restricted messages (document or link) by tg private/public/super links
-        
-    </details></li>
-    <li><details>
-      <summary><b>DDL Upload</b></summary>
-
-    - Upload Files/Folder in the Supported Sites
-      - Gofile.io
-      - Streamtape.com
-    - Upload on multiple sites at a time
-    - User api/key is need for the upload        
-    </details></li>
-    <li><details>
-      <summary><b>Google Drive</b></summary>
-
-    - Stop duplicates for all tasks
-    - Download from Google Drive
-    - Counting Google Drive files/folders
-    - Search in multiple Drive folder/TeamDrive
-    - Recursive Search (only with `root` or TeamDrive ID, folder ids will be listed with non-recursive method). Based on [Sreeraj](https://github.com/SVR666) searchX-bot.
-    - Use `token.pickle` if file not found with Service Account, for all Gdrive functions
-    - Random Service Account for each task
-
-    </details></li>
-    <li><details>
-      <summary><b>Multiple Status</b></summary>
-
-    - Clone Status
-    - Extract Status
-    - Archive Status
-    - Seed Status
-    - Status Pages for unlimited tasks
-    - Ability to cancel upload/clone/archive/extract/split
-    - Cancel all buttons for choosing specific tasks status to cancel
-    - Fix flooding issues
-    - Fix overall upload and download speed
-
-    </details></li>
-    <li><details>
-      <summary><b>yt-dlp</b></summary>
-        
-    - Switch from youtube-dl to yt-dlp and fix all conflicts
-    - Yt-dlp quality buttons
-    - Ability to use specific yt-dlp option for each task
-    - Custom default yt-dlp options for each user
-    - Fix download progress
-    - Embed original thumbnail and add it for leech
-    - All supported audio formats
-
-    </details></li>
-    <li><details>
-      <summary><b>Database (MongoDb)</b></summary>
-
-    - Mongo Database support
-    - Store bot settings
-    - Store user settings including thumbnails and rclone config in database
-    - Store private files
-    - Store RSS data
-    - Store incompleted task messages
-
-    </details></li>
-    <li><details>
-      <summary><b>Torrent</b></summary>
-
-    - Torrent search support
-    - Search on torrents with Torrent Search API
-    - Search on torrents with variable plugins using qBittorrent search engine
-    - Cached Magnet support for real-derbid api
-
-    </details></li>
-    <li><details>
-      <summary><b>Archives</b></summary>
-
-    - Zip instead of tar ( Change Soon to zip, tar, rar, 7z )
-    - Using 7-zip tool to extract all supported types
-    - Extract rar, zip and 7z within folder or splits with or without password
-    - Zip file/folder with or without password
-
-    </details></li>
-    <li><details>
-      <summary><b>RSS Feed</b></summary>
-
-    - Rss feed. Based on this repository [rss-chan](https://github.com/hyPnOtICDo0g/rss-chan)
-    - Filters added
-    - Edit any feed while running: pause, resume, edit command and edit filters
-    - Rss for each user with tag
-    - Sudo settings to control users feeds
-    - All functions have been improved using buttons from one command.
-
-    </details></li>
-    <li><details>
-      <summary><b>RClone</b></summary>
-
-    - Download and Upload using rclone with and without random service accounts
-    - Ability to choose config, remote and path from list with buttons
-    - Ability to set rclone flags for each task or globally from config
-    - Rclone.conf for each user
-    - Clone server-side
-    - Rclone serve for combine remote to use it as index from all remotes
-
-    </details></li></ol>
-</details>
-    
-<details>
-    <summary><b>Overall Features</b></summary>
-
-- Docker image support for linux `amd64, arm64/v8, arm/v7`
-- Switch from sync to async
-- Switch from python-telegram-bot to pyrogram
-- Edit variables and overwrite the private files while bot running
-- Update bot at startup and with restart command using `UPSTREAM_REPO`
-- Improve Telegraph. Based on [Sreeraj](https://github.com/SVR666) loaderX-bot
-- Mirror/Leech/Watch/Clone/Count/Del by reply
-- Mirror/Leech/Clone multi links/files with one command
 ## 📑 ***Características del Repositorio***
 
 <details>
-  <summary><b>Ver Todas las Características <sup><kbd>Haz clic aquí</kbd></sup></b></summary>
-    <ol><li><details>
+  <summary><b>Ver Todas las Funcionalidades <sup><kbd>Haz clic aquí</kbd></sup></b></summary>
+  <ol>
+    <li><details>
       <summary><b>qBittorrent</b></summary>
 
 - Soporte para qBittorrent  
-- Seleccionar archivos del Torrent antes y durante la descarga  
-- Seed de torrents con un ratio y tiempo específico  
-- Editar opciones globales desde la configuración del bot mientras está en ejecución
+- Selección de archivos del torrent antes y durante la descarga  
+- Compartir (seed) torrents con un ratio o tiempo específico  
+- Editar opciones globales mientras el bot se está ejecutando desde la configuración del bot
 
     </details></li>
+    
     <li><details>
       <summary><b>Aria2c</b></summary>
 
-    - Seleccionar archivos del Torrent antes y durante la descarga  
-    - Seed de torrents con un ratio y tiempo específico  
-    - Soporte para Netrc  
-    - Autenticación de enlaces directos específicos al usar el bot (funciona incluso si solo se proporciona usuario o contraseña)  
-    - Mejora del script `aria.sh`  
-    - Corrección de todas las funciones de escucha de descargas y estado  
-    - Editar opciones globales desde la configuración del bot mientras está en ejecución
-        
-    </details></li>
-    <li><details>
-      <summary><b>Subida/Descarga en Telegram</b></summary>
+- Selección de archivos del torrent antes y durante la descarga  
+- Compartir torrents con un ratio o tiempo específico  
+- Soporte para netrc  
+- Autenticación de enlaces directos mientras se usa el bot (funciona incluso solo con usuario o contraseña)  
+- Mejora de `aria.sh`  
+- Corrección de todas las funciones de escucha de descarga y estado  
+- Editar opciones globales mientras el bot está corriendo desde la configuración
 
-    - Soporte para Leech (subida de archivos a TG)  
-    - División de archivos con tamaño específico  
-    - Miniaturas por usuario  
-    - Prefijo, sufijo y renombrado (eliminar palabras específicas vía Regex) por usuario  
-    - Configurar subida como documento o como medio por usuario  
-    - Subida de archivos mayores a 2GB con cuenta premium, y tamaño limitado con bot  
-    - Subida de archivos a un supergrupo o canal específico  
-    - Configurar tamaño de división del Leech por usuario  
-    - Opción de subir las partes divididas como grupo de medios (media group) por usuario  
-    - Descargar con cuenta premium si está disponible  
-    - Descargar mensajes restringidos (documentos o enlaces) por enlaces públicos/privados/super de Telegram
-        
     </details></li>
+
+    <li><details>
+      <summary><b>Subida/Descarga a Telegram (TG)</b></summary>
+
+- Soporte para *leech* (subida de archivos a TG)  
+- División de archivos por tamaño específico  
+- Miniatura personalizada para cada usuario  
+- Prefijo, sufijo y renombrado (eliminar palabras específicas mediante Regex) en *leech* por usuario  
+- Configurar subida como documento o como multimedia por usuario  
+- Subida de archivos mayores a 2GB con cuenta premium, menor tamaño con el bot  
+- Subida de todos los archivos a un canal o grupo específico  
+- Configuración de tamaño de división en *leech* y tamaño de división igual por usuario  
+- Capacidad para *leech* de partes divididas como grupo multimedia. Configuración individual  
+- Descarga usando cuenta premium si está disponible  
+- Descarga de mensajes restringidos (documentos o enlaces) por enlaces privados/públicos/supergrupos de TG
+
+    </details></li>
+
     <li><details>
       <summary><b>Subida DDL</b></summary>
 
-    - Subir archivos/carpetas a los sitios compatibles:
-      - Gofile.io  
-      - Streamtape.com  
-    - Subida en múltiples sitios al mismo tiempo  
-    - Se necesita una API/key del usuario para la subida        
+- Subida de archivos/carpetas a los sitios soportados:
+  - Gofile.io  
+  - Streamtape.com  
+- Subida a múltiples sitios al mismo tiempo  
+- Se requiere API/clave de usuario para la subida  
+
     </details></li>
+
     <li><details>
       <summary><b>Google Drive</b></summary>
 
-    - Evita duplicados para todas las tareas  
-    - Descarga desde Google Drive  
-    - Conteo de archivos/carpetas en Google Drive  
-    - Búsqueda en múltiples carpetas/unidades de equipo (TeamDrive)  
-    - Búsqueda recursiva (solo con `root` o ID de TeamDrive, los IDs de carpeta se listan de forma no recursiva). Basado en [Sreeraj](https://github.com/SVR666) searchX-bot  
-    - Usa `token.pickle` si no se encuentra el archivo con Cuentas de Servicio para todas las funciones de GDrive  
-    - Selección aleatoria de cuenta de servicio para cada tarea  
+- Evitar duplicados en todas las tareas  
+- Descarga desde Google Drive  
+- Conteo de archivos/carpetas de Drive  
+- Búsqueda en múltiples carpetas/unidades de equipo  
+- Búsqueda recursiva (solo con `root` o ID de TeamDrive, las carpetas serán listadas sin recursividad). Basado en [Sreeraj](https://github.com/SVR666) `searchX-bot`  
+- Uso de `token.pickle` si no se encuentra archivo con cuenta de servicio para todas las funciones de GDrive  
+- Cuentas de servicio aleatorias por tarea  
 
     </details></li>
+
     <li><details>
       <summary><b>Múltiples Estados</b></summary>
 
-    - Estado de clonación  
-    - Estado de extracción  
-    - Estado de compresión  
-    - Estado de seed  
-    - Páginas de estado para tareas ilimitadas  
-    - Cancelar subida/clonación/compresión/extracción/división  
-    - Botones para cancelar tareas específicas  
-    - Corregido el problema de flood  
-    - Mejoras generales en velocidad de subida y descarga  
+- Estado de clonación  
+- Estado de extracción  
+- Estado de compresión  
+- Estado de *seeding*  
+- Páginas de estado para tareas ilimitadas  
+- Posibilidad de cancelar subida/clonación/extracción/división  
+- Botones para cancelar todas las tareas por tipo  
+- Corrección de problemas de *flooding*  
+- Mejoras generales en velocidades de subida y descarga  
 
     </details></li>
+
     <li><details>
       <summary><b>yt-dlp</b></summary>
-        
-    - Migración de youtube-dl a yt-dlp y resolución de conflictos  
-    - Botones de calidad para yt-dlp  
-    - Usar opciones personalizadas de yt-dlp por tarea  
-    - Configurar opciones predeterminadas de yt-dlp por usuario  
-    - Corregir progreso de descarga  
-    - Incrustar miniatura original y añadirla al leech  
-    - Soporte para todos los formatos de audio compatibles  
+
+- Cambio de `youtube-dl` a `yt-dlp` y corrección de conflictos  
+- Botones de calidad de `yt-dlp`  
+- Capacidad de usar opciones específicas de `yt-dlp` por tarea  
+- Opciones por defecto personalizadas de `yt-dlp` por usuario  
+- Corrección del progreso de descarga  
+- Miniatura original incrustada y añadida para *leech*  
+- Soporte para todos los formatos de audio  
 
     </details></li>
+
     <li><details>
       <summary><b>Base de Datos (MongoDB)</b></summary>
 
-    - Soporte para base de datos MongoDB  
-    - Guardar configuraciones del bot  
-    - Guardar configuraciones de usuario incluyendo miniaturas y configuración de rclone en la base de datos  
-    - Guardar archivos privados  
-    - Guardar datos RSS  
-    - Guardar mensajes de tareas incompletas  
+- Soporte para base de datos MongoDB  
+- Guardar configuración del bot  
+- Guardar configuración del usuario, incluidas miniaturas y configuración de RClone  
+- Guardar archivos privados  
+- Guardar datos RSS  
+- Guardar mensajes de tareas incompletas  
 
     </details></li>
+
     <li><details>
-      <summary><b>Torrent</b></summary>
+      <summary><b>Torrents</b></summary>
 
-    - Soporte para búsqueda de torrents  
-    - Búsqueda mediante API de búsqueda de torrents  
-    - Búsqueda mediante complementos del motor de búsqueda de qBittorrent  
-    - Soporte para Magnet en caché con API de real-debrid  
+- Soporte para búsqueda de torrents  
+- Búsqueda en torrents con API de búsqueda  
+- Búsqueda con múltiples plugins usando el motor de búsqueda de qBittorrent  
+- Soporte para magnet cache con API de real-debrid  
 
     </details></li>
+
     <li><details>
-      <summary><b>Compresión/Extracción</b></summary>
+      <summary><b>Archivos comprimidos</b></summary>
 
-    - Compresión en zip (pronto soporte para zip, tar, rar, 7z)  
-    - Uso de herramienta 7-zip para extraer todos los tipos compatibles  
-    - Extraer rar, zip y 7z dentro de una carpeta o en partes, con o sin contraseña  
-    - Comprimir archivo/carpeta con o sin contraseña  
+- Compresión ZIP en lugar de TAR (próximamente soporte para ZIP, TAR, RAR, 7z)  
+- Uso de 7-zip para extraer todos los tipos compatibles  
+- Extraer RAR, ZIP y 7z dentro de una carpeta o por partes, con o sin contraseña  
+- Comprimir archivos/carpetas con o sin contraseña  
 
     </details></li>
+
     <li><details>
       <summary><b>RSS Feed</b></summary>
 
-    - RSS Feed. Basado en [rss-chan](https://github.com/hyPnOtICDo0g/rss-chan)  
-    - Filtros agregados  
-    - Editar cualquier feed mientras se ejecuta: pausar, reanudar, editar comando y filtros  
-    - RSS para cada usuario con etiquetas  
-    - Configuración de Sudo para controlar los feeds de los usuarios  
-    - Todas las funciones mejoradas con botones desde un solo comando  
+- Fuente RSS basada en el repositorio [rss-chan](https://github.com/hyPnOtICDo0g/rss-chan)  
+- Filtros añadidos  
+- Editar cualquier feed en ejecución: pausar, reanudar, editar comandos y filtros  
+- RSS por usuario con etiquetas  
+- Configuración de `sudo` para controlar los feeds de los usuarios  
+- Todas las funciones mejoradas usando botones desde un solo comando  
 
     </details></li>
+
     <li><details>
       <summary><b>RClone</b></summary>
 
-    - Descargar y subir usando rclone con o sin cuentas de servicio aleatorias  
-    - Elegir configuración, remoto y ruta desde lista con botones  
-    - Establecer flags de rclone por tarea o globalmente desde la configuración  
-    - rclone.conf para cada usuario  
-    - Clonación del lado del servidor  
-    - Rclone serve para combinar remotos y usarlos como índice  
+- Descargar y subir usando RClone con o sin cuentas de servicio aleatorias  
+- Elegir configuración, remoto y ruta desde lista con botones  
+- Establecer parámetros de RClone por tarea o globalmente desde la configuración  
+- `rclone.conf` por usuario  
+- Clonación del lado del servidor  
+- `rclone serve` para combinar remotos como índice accesible  
 
-    </details></li></ol>
+    </details></li>
+  </ol>
 </details>
-    
-<details>
-    <summary><b>Características Generales</b></summary>
 
-- Soporte para imagen Docker en Linux `amd64, arm64/v8, arm/v7`  
-- Cambio de sync a async  
-- Migración de python-telegram-bot a pyrogram  
-- Editar variables y sobrescribir archivos privados mientras el bot se ejecuta  
-- Actualizar el bot al iniciar o con comando de reinicio usando `UPSTREAM_REPO`  
-- Mejora de Telegraph. Basado en [Sreeraj](https://github.com/SVR666) loaderX-bot  
-- Mirror/Leech/Ver/Clonar/Contar/Eliminar por respuesta  
-- Mirror/Leech/Clonar múltiples enlaces/archivos con un solo comando  
-- Nombre personalizado para todos los enlaces excepto torrents (para archivos se debe incluir la extensión, excepto yt-dlp)  
-- Filtro de extensiones para archivos a subir o clonar  
-- Botón para ver enlace. Abre el enlace índice en navegador en vez de descarga directa  
+<details>
+  <summary><b>Características Generales</b></summary>
+
+- Imagen Docker con soporte para Linux `amd64, arm64/v8, arm/v7`  
+- Cambio de ejecución sincronizada a asincrónica  
+- Cambio de `python-telegram-bot` a `pyrogram`  
+- Editar variables y sobrescribir archivos privados mientras el bot está corriendo  
+- Actualización automática al iniciar o con comando de reinicio usando `UPSTREAM_REPO`  
+- Mejora en integración con Telegraph, basado en [Sreeraj](https://github.com/SVR666) `loaderX-bot`  
+- Clonación/Mirroring/Leech/Contar/Eliminar por respuesta  
+- Clonación/Mirroring múltiple de enlaces/archivos con un solo comando  
+- Nombre personalizado para todos los enlaces excepto torrents (para archivos se debe incluir la extensión, excepto con enlaces yt-dlp)  
+- Filtros de extensión para archivos a subir/clonar  
+- Botón de Ver Enlace para abrir en navegador el índice en lugar de descargar directo  
 - Sistema de cola para todas las tareas  
-- Posibilidad de comprimir/descomprimir múltiples enlaces en el mismo directorio (especialmente útil para partes divididas en TG)  
-- Descarga masiva desde archivo .txt de Telegram o mensaje de texto con enlaces separados por nueva línea  
-- Unir archivos divididos previamente con herramienta de Linux split  
-- Se han mejorado casi todas las funciones del repositorio y muchos otros detalles no mencionados  
-- Muchos errores corregidos  
-- Límites del bot por usuario  
-- Vista resumida en el canal de Telegram WZML_X  
+- Capacidad para comprimir/descomprimir múltiples enlaces en el mismo directorio  
+- Descarga masiva desde archivo .txt de Telegram o mensaje con enlaces separados por líneas  
+- Unir archivos previamente divididos con herramientas de Linux  
+- Prácticamente todas las funciones han sido mejoradas  
+- Corrección de numerosos errores  
+- Límite de tareas por usuario  
+- Vista rápida en el canal de Telegram de WZML_X  
 
 </details>
 
 <details>
-    <summary><b>Desde Repositorios Base y Otros</b></summary>
+  <summary><b>Desde el repositorio base y otros</b></summary>
 
-- Mirror de enlaces de descarga directa, Torrent, Mega.nz y archivos de Telegram hacia Google Drive  
-- Copiar archivos del Drive de otro usuario a tu Drive  
-- Progreso de descarga/subida, velocidad y tiempo estimado  
-- Mirror de todos los enlaces compatibles con youtube-dl  
-- Soporte Docker  
-- Subida a Team Drive  
-- Soporte para enlaces índice  
+- Mirroring de enlaces directos, torrents, Mega.nz y archivos de Telegram a Google Drive  
+- Copiar archivos desde el Drive de otros al propio  
+- Progreso de descarga/subida, velocidades y tiempo estimado  
+- Soporte completo para enlaces compatibles con `youtube-dl`  
+- Soporte para Docker  
+- Subida a Team Drives  
+- Soporte para enlaces de índice  
 - Soporte para cuentas de servicio  
-- Eliminar archivos del Drive  
-- Soporte para múltiples trackers  
-- Consola (Shell) y ejecutor  
-- Añadir usuarios sudo  
+- Eliminación de archivos en Drive  
+- Soporte para múltiples *trackers*  
+- Shell y ejecutor  
+- Agregar usuarios `sudo`  
 - Extraer archivos protegidos con contraseña  
-- Soporte para los siguientes tipos de archivo:  
+- Tipos de archivo soportados para extracción:  
   > ZIP, RAR, TAR, 7z, ISO, WIM, CAB, GZIP, BZIP2, APM, ARJ, CHM, CPIO, CramFS, DEB, DMG, FAT, HFS, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS, NTFS, RPM, SquashFS, UDF, VHD, XAR, Z, TAR.XZ  
-- Enlaces directos compatibles:  
-  > mediafire(folder), letsupload.io, hxfile.co, antfiles, fembed.com, fembed.net, femax20.com, layarkacaxxi.icu, fcdn.stream, sbplay.org, naniplay.com, naniplay.nanime.in, naniplay.nanime.biz, sbembed.com, streamtape.com, streamsb.net, feurl.com, upload.ee, pixeldrain.com, racaty.net, 1fichier.com, 1drv.ms (solo funciona con archivos, no carpetas o cuentas empresariales), uptobox.com, solidfiles.com, streamvid.net, linkbox.to, shrdsk.me (sharedisk.io), akmfiles.com, wetransfer.com, mdisk.me (con ytdl), gofile.io(folder), filelion, terabox.com (requiere cookies en un archivo llamado terabox.txt) y casi todos los sitios basados en anonfiles
+- Enlaces directos compatibles:
+  > mediafire (carpetas), letsupload.io, hxfile.co, antfiles, fembed.com, fembed.net, femax20.com, layarkacaxxi.icu, fcdn.stream, sbplay.org, naniplay.com, naniplay.nanime.in, naniplay.nanime.biz, sbembed.com, streamtape.com, streamsb.net, feurl.com, upload.ee, pixeldrain.com, racaty.net, 1fichier.com, 1drv.ms (solo para archivos, no carpetas o cuentas business), uptobox.com, solidfiles.com, streamvid.net, linkbox.to, shrdsk.me (sharedisk.io), akmfiles.com, wetransfer.com, mdisk.me (con ytdl), gofile.io (carpetas), filelion, terabox.com (necesita archivo cookies llamado `terabox.txt`), y casi todos los sitios basados en anonfiles.
 
 </details>
 

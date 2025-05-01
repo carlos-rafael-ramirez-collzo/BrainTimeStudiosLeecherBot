@@ -51,6 +51,7 @@ lxml==5.3.2
 marisa-trie==1.2.1
 Markdown==3.8
 MarkupSafe==3.0.2
+mega.py
 motor==3.2.0
 multidict==6.4.3
 mutagen==1.47.0

@@ -71,6 +71,7 @@ pybase64==1.4.1
 pycares==4.6.0
 pycountry==24.6.1
 pycparser==2.22
+pycryptodome
 pymediainfo==6.0.1
 pymongo==4.4.1
 pyparsing==3.2.3
